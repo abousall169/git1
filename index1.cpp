@@ -5,4 +5,5 @@ int main(){
     cout<<"donner deux entier naturelle";
     cin>>a>>b;
     s=a+b;
+    cout<<"la somme des deux entiers est "<<s;
 };
